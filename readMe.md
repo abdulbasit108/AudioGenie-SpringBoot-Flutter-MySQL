@@ -9,6 +9,10 @@
 - **User Authentication**: Secure login and registration.
 - **History Management**: Users can view and manage their transcription history.
 
+## UI
+
+![Audio Genie Mockup](https://github.com/user-attachments/assets/4c0bf6a7-9400-4b30-8242-f4e7cf91f097)
+
 ## Tech Stack
 
 ### Backend
