@@ -24,6 +24,12 @@
   - Material Design
   - Integration with backend via REST API
 
+### Audio Processing
+- **AssemblyAI**
+  - Java SDK
+  - Audio Intelligence Models
+  - Check it out at: https://www.assemblyai.com/docs/audio-intelligence
+
 ### Sample Audio URLs
   - https://bit.ly/3r8nQ8i
   - https://github.com/AssemblyAI-Community/audio-examples/raw/main/20230607_me_canadian_wildfires.mp3
